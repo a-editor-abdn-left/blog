@@ -1,0 +1,4 @@
+baseURL = 'https://a-editor-abdn-left.github.io/'
+languageCode = 'en-us'
+title = "Aberdeen people's news"
+theme = 'hugo-theme-terminal'
